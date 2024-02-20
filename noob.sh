@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # / Rerechan02 Install NoobZVPN'S
 # / Free Open Source
 # / It is prohibited to sell this script 
