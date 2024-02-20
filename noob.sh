@@ -41,7 +41,7 @@ wget -O /etc/systemd/system/noobzvpns.service "vpncode.whf.bz/noob/noobzvpns.ser
 systemctl enable noobzvpns
 systemctl restart noobzvpns
 
-clear
+
 echo " Done Install "
-sleep 2
+sleep 10
 clear
